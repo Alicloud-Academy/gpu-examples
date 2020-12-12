@@ -104,7 +104,7 @@ Now that we've run our ray tracer code, we can download the `.ppm` files locally
 
 You can find the files at `raytracinginoneweekendincuda/out.ppm` and `raytracing.github.io/build/image.ppm` respectively. In our tests, we got an output image like this one. Your should be similar:
 
-[!Ray Tracer Output](image.png)
+![Ray Tracer Output](image.png)
 
 ### CPU vs GPU Performance
 
